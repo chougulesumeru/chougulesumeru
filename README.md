@@ -1,69 +1,126 @@
 <!-- PROFILE README for GitHub -->
+<!-- Paste this into: github.com/chougulesumeru/chougulesumeru/README.md -->
 
-<h1 align="left">👋 Hi, I'm <span style="color:#0ea5e9">Sumeru Chougule</span></h1>
-<h3 align="left">C++ | Cloud | DevOps | ADAS Engineer • Pune, India</h3>
+<div align="center">
+  <h1>👋 Hi, I'm <span style="color:#0ea5e9">Sumeru Chougule</span></h1>
+  <h3>C++ • Cloud • DevOps • ADAS Engineer • Pune, India</h3>
 
-<p>
-  <a href="mailto:chougulesumeru19@gmail.com"><img alt="email" src="https://img.shields.io/badge/Email-chougulesumeru19%40gmail.com-red?style=flat-square&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/sumeru-chougule-414345206/"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://github.com/chougulesumeru"><img alt="github" src="https://img.shields.io/badge/GitHub-chougulesumeru-black?style=flat-square&logo=github"></a>
-  <a href="./resume/Sumeru_Chougule_Resume.pdf" download><img alt="resume" src="https://img.shields.io/badge/Resume-Download-0078D4?style=flat-square"></a>
+  <p>
+    <a href="mailto:chougulesumeru19@gmail.com">
+      <img alt="email" src="https://img.shields.io/badge/Email-chougulesumeru19%40gmail.com-red?style=for-the-badge&logo=gmail">
+    </a>
+    <a href="https://www.linkedin.com/in/sumeru-chougule-414345206/">
+      <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin">
+    </a>
+    <a href="https://github.com/chougulesumeru">
+      <img alt="github" src="https://img.shields.io/badge/GitHub-chougulesumeru-181717?style=for-the-badge&logo=github">
+    </a>
+    <a href="./resume/Sumeru_Chougule_Resume.pdf" download>
+      <img alt="resume" src="https://img.shields.io/badge/Resume-Download-0078D4?style=for-the-badge&logo=adobeacrobat">
+    </a>
+  </p>
+</div>
+
+---
+
+## 🔭 About Me
+I am an **Electronics & Telecommunication** engineer turned **C++ & Cloud/DevOps** professional. I build high-performance C++ modules for ADAS and design secure, scalable cloud infrastructures on AWS. I enjoy solving low-level performance problems and building reliable deployment pipelines.
+
+**Core strengths:** C++ (OOP), AWS (VPC/EC2/S3/IAM), Linux, CI/CD (Jenkins / GitHub Actions), Docker, MATLAB/Simulink (MBD), LiDAR perception.
+
+---
+
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,aws,docker,jenkins,git,github,matlab,linux,terraform" alt="tech icons"/>
 </p>
 
----
-
-## 👨‍💻 About Me
-**Electronics & Telecommunication Engineer** with experience as a C++ developer in ADAS and as a Cloud/DevOps engineer working with AWS infrastructure and CI/CD. I design secure, scalable cloud systems and build performant C++ modules for perception & control. (Details from my resume). :contentReference[oaicite:1]{index=1}
-
----
-
-## 🧰 Tools & Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,aws,docker,jenkins,git,github,matlab,linux" alt="tech icons"/>
-</p>
-
-- **Cloud & Infra:** AWS (VPC, EC2, S3, IAM), VPC Flow Logs, Aurora  
-- **Languages:** C++ (OOP), Bash  
-- **DevOps:** Docker, Jenkins, CI/CD, GitHub Actions  
-- **MBD / Tools:** MATLAB / Simulink, MIL/SIL
+**Cloud & Infra:** AWS (VPC, EC2, S3, IAM, Aurora), VPC Flow Logs  
+**Languages:** C++ (OOP), Bash  
+**DevOps:** Docker, Jenkins, GitHub Actions, CI/CD  
+**MBD / Tools:** MATLAB / Simulink, MIL / SIL  
+**Other:** LiDAR processing, point-cloud pipelines, performance optimization
 
 ---
 
-## 🔎 Experience (short)
-- **Fusion Softwares (Pune)** — Cloud & DevOps Intern (Aug 2025 – Present)  
-  - Built secure AWS environments, automated VPC traffic inspection, deployed Aurora-based full-stack prototype.  
-- **KPIT Technologies (Pune)** — Associate Engineer, C++ & MBD (Dec 2023 – Jun 2025)  
-  - ADAS features, LiDAR perception, object detection & collision prediction using C++ & Simulink.
+## 🔎 Experience (high level)
 
-(See full details in my resume). :contentReference[oaicite:2]{index=2}
+- **Fusion Softwares — Cloud & DevOps Intern** (Aug 2025 – Present)  
+  - Built secure AWS environments, automated VPC traffic analysis, integrated Aurora for prototype apps.  
+  - Automated routine system tasks using Linux and bash; improved deployment reliability.
+
+- **KPIT Technologies — Associate Engineer (C++ & MBD)** (Dec 2023 – Jun 2025)  
+  - Contributed to ADAS projects: LiDAR simulation, object detection & collision prediction in C++.  
+  - Used MATLAB/Simulink for model-based design and verification (MIL/SIL).
+
+_For full details, see the resume (download link above)._
 
 ---
 
 ## 🔭 Featured Projects
 
-| Project | Short Description | Link |
-|---|---|---:|
-| **LiDAR Perception** | Real-time point-cloud generation & object detection (C++). | 🔗 [Repo](https://github.com/chougulesumeru/lidar-perception) |
-| **AWS VPC Deployment** | VPC with public/private subnets, IGW & routing. | 🔗 [Repo](https://github.com/chougulesumeru/vpc-deployment) |
+> Click any project to view the repo and full README with demos.
 
-*Each project has a detailed README with demo GIFs and run instructions.*
+| Project (Repo) | What it does | Quick links |
+|---|---|---:|
+| **LiDAR Perception** — `lidar-perception` | Real-time point-cloud processing and object detection for ADAS (C++). | 🔗 [Repo](https://github.com/chougulesumeru/lidar-perception) |
+| **AWS VPC Deployment** — `vpc-deployment` | Infrastructure templates for VPC with public/private subnets and IGW. | 🔗 [Repo](https://github.com/chougulesumeru/vpc-deployment) |
+| **Cruise Control (Sim)** — `cruise-control-sim` | MATLAB/Simulink model for vehicle cruise control (feedback control). | 🔗 [Repo](https://github.com/chougulesumeru/cruise-control-sim) |
+
+> I recommend adding a short demo GIF (`assets/gifs/`) to each project README for immediate visual impact.
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats & Trophies
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=chougulesumeru&show_icons=true&theme=tokyonight" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chougulesumeru&layout=compact&theme=tokyonight" alt="top langs" />
+  <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=chougulesumeru&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chougulesumeru&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="left">
+  <img alt="trophies" src="https://github-profile-trophy.vercel.app/?username=chougulesumeru&theme=onedark&row=1&column=6" />
 </p>
 
 ---
 
-## 📫 Contact
-- Email: chougulesumeru19@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/sumeru-chougule-414345206/
+## ✨ Highlights (quick bullets — great for recruiters)
+- ✅ Experience building secure AWS VPCs with subnet segmentation and routing.  
+- ✅ Developed LiDAR-based perception modules in C++ for ADAS systems.  
+- ✅ Familiar with CI/CD pipeline creation and automation using Jenkins & GitHub Actions.  
+- ✅ Comfortable in Linux-based production environments and performance debugging.
+
+---
+
+## 📫 Contact & Availability
+- **Email:** chougulesumeru19@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/sumeru-chougule-414345206/  
+- Open to **contract or full-time** roles in Software, Cloud, DevOps, and ADAS.
+
+---
+
+## 👇 Quick links
+- 🔗 Portfolio (GitHub Pages): `https://chougulesumeru.github.io` *(create this repo to host your site)*  
+- 📄 Resume: `./resume/Sumeru_Chougule_Resume.pdf` *(upload this file into your profile repo)*
 
 ---
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=chougulesumeru.chougulesumeru)
+
+---
+
+### Small customization tips
+- Replace the project repo links with your real repos (or remove rows you don't have yet).  
+- Add a small GIF named `assets/gifs/lidar-demo.gif` inside the `lidar-perception` repo and reference it in that repo's README (great first-impression asset).  
+- Pin 4–6 of your best repos on your GitHub profile (the UI option — not in README).  
+- Keep the resume PDF in `/resume/` inside this profile repo for the resume download badge to work.
+
+---
+
+If you want, I can now:
+- **Generate** the ready-to-paste `index.html` and site skeleton for `chougulesumeru.github.io`.  
+- **Create** two polished `README.md` files for `lidar-perception` and `vpc-deployment` (with demo GIF placeholder code).  
+- **Produce** a tiny GIF placeholder or instructions to create/optimize real GIF demos.
+
+Which of those would you like me to generate next? (No waiting — I'll paste the files here.)
