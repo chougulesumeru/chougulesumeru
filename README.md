@@ -126,9 +126,8 @@ _For full details, see the resume (download link above)._
 ---
 
 ## 👇 Quick links
-- 🔗 Portfolio (GitHub Pages): `https://chougulesumeru.github.io` *(create this repo to host your site)*
-- LinkedIn: https://www.linkedin.com/in/sumeru-chougule-414345206/
-- 📄 Resume: `./resume/Sumeruc_Resume.pdf` *(upload this file into your profile repo)*
+- 🔗 Portfolio (GitHub Pages): `https://chougulesumeru.github.io
+- 📄 Resume: `./resume/Sumeruc_Resume.pdf
 
 
 
