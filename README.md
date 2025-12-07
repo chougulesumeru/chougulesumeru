@@ -60,21 +60,15 @@ security group rules for network isolation.
 object-oriented software components (OOP) and implementing new features.
 
 
-_For full details, see the resume (download link above)._
-
 ---
 
 ## 🔭 Featured Projects
-
-> Click any project to view the repo and full README with demos.
 
 | Project (Repo) | What it does | Quick links |
 |---|---|---:|
 | **LiDAR Perception** — `lidar-perception` | Real-time point-cloud processing and object detection for ADAS (C++). | 🔗 [Repo](https://github.com/chougulesumeru/lidar-perception) |
 | **AWS VPC Deployment** — `vpc-deployment` | Infrastructure templates for VPC with public/private subnets and IGW. | 🔗 [Repo](https://github.com/chougulesumeru/vpc-deployment) |
 | **Cruise Control (Sim)** — `cruise-control-sim` | MATLAB/Simulink model for vehicle cruise control (feedback control). | 🔗 [Repo](https://github.com/chougulesumeru/cruise-control-sim) |
-
-> I recommend adding a short demo GIF (`assets/gifs/`) to each project README for immediate visual impact.
 
 ---
 
