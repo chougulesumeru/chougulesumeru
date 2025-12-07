@@ -5,25 +5,21 @@
   <h1>👋 Hi, I'm <span style="color:#0ea5e9">Sumeru Chougule</span></h1>
   <h3>C++ • Cloud • DevOps Engineer • Pune, India</h3>
 
-    <div style="display:flex;flex-wrap:wrap;gap:8px;align-items:center;">
-        <a href="mailto:chougulesumeru19@gmail.com" title="Email me"
-           style="text-decoration:none">
-          <img alt="email" src="https://img.shields.io/badge/Email-chougulesumeru19%40gmail.com-red?style=for-the-badge&logo=gmail">
-        </a>
-
-        <a href="https://www.linkedin.com/in/sumeru-chougule-414345206/" target="_blank" rel="noopener" title="LinkedIn">
-          <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
-        </a>
-
-        <a href="https://github.com/chougulesumeru" target="_blank" rel="noopener" title="GitHub">
-          <img alt="github" src="https://img.shields.io/badge/GitHub-@chougulesumeru-181717?style=for-the-badge&logo=github">
-        </a>
-
-        <a href="./resume/Sumeru_Chougule_Resume.pdf" download title="Download Resume">
-          <img alt="resume" src="https://img.shields.io/badge/Resume-Download-0078D4?style=for-the-badge&logo=adobepdf">
-        </a>
-      </div>
-
+  <p>
+    <a href="mailto:chougulesumeru19@gmail.com">
+      <img alt="email" src="https://img.shields.io/badge/Email-chougulesumeru19%40gmail.com-red?style=for-the-badge&logo=gmail">
+    </a>
+    <a href="https://www.linkedin.com/in/sumeru-chougule-414345206/">
+      <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin">
+    </a>
+    <a href="https://github.com/chougulesumeru">
+      <img alt="github" src="https://img.shields.io/badge/GitHub-chougulesumeru-181717?style=for-the-badge&logo=github">
+    </a>
+    <a href="./resume/Sumeru_Chougule_Resume.pdf" download>
+      <img alt="resume" src="https://img.shields.io/badge/Resume-Download-0078D4?style=for-the-badge&logo=adobeacrobat">
+    </a>
+  </p>
+</div>
 ---
 
 ## 🔭 About Me
@@ -132,7 +128,7 @@ _For full details, see the resume (download link above)._
 ## 👇 Quick links
 - 🔗 Portfolio (GitHub Pages): `https://chougulesumeru.github.io` *(create this repo to host your site)*
 - LinkedIn: https://www.linkedin.com/in/sumeru-chougule-414345206/
-- 📄 Resume: `./resume/Sumeru_Chougule_Resume.pdf` *(upload this file into your profile repo)*
+- 📄 Resume: `./resume/Sumeruc_Resume.pdf` *(upload this file into your profile repo)*
 
 
 ---
