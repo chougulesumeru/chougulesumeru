@@ -131,23 +131,4 @@ _For full details, see the resume (download link above)._
 - 📄 Resume: `./resume/Sumeruc_Resume.pdf` *(upload this file into your profile repo)*
 
 
----
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=chougulesumeru.chougulesumeru)
-
----
-
-### Small customization tips
-- Replace the project repo links with your real repos (or remove rows you don't have yet).  
-- Add a small GIF named `assets/gifs/lidar-demo.gif` inside the `lidar-perception` repo and reference it in that repo's README (great first-impression asset).  
-- Pin 4–6 of your best repos on your GitHub profile (the UI option — not in README).  
-- Keep the resume PDF in `/resume/` inside this profile repo for the resume download badge to work.
-
----
-
-If you want, I can now:
-- **Generate** the ready-to-paste `index.html` and site skeleton for `chougulesumeru.github.io`.  
-- **Create** two polished `README.md` files for `lidar-perception` and `vpc-deployment` (with demo GIF placeholder code).  
-- **Produce** a tiny GIF placeholder or instructions to create/optimize real GIF demos.
-
-Which of those would you like me to generate next? (No waiting — I'll paste the files here.)
