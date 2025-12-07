@@ -15,7 +15,7 @@
     <a href="https://github.com/chougulesumeru">
       <img alt="github" src="https://img.shields.io/badge/GitHub-chougulesumeru-181717?style=for-the-badge&logo=github">
     </a>
-    <a href="./resume/Sumeru_Chougule_Resume.pdf" download>
+    <a href="./chougulesumeru/Sumeru_Chougule_Resume.pdf" download>
       <img alt="resume" src="https://img.shields.io/badge/Resume-Download-0078D4?style=for-the-badge&logo=adobeacrobat">
     </a>
   </p>
@@ -127,7 +127,7 @@ _For full details, see the resume (download link above)._
 
 ## 👇 Quick links
 - 🔗 Portfolio (GitHub Pages): `https://chougulesumeru.github.io
-- 📄 Resume: `./resume/Sumeruc_Resume.pdf
+- 📄 Resume: './chougulesumeru/Sumerc_Resume.pdf'
 
 
 
