@@ -3,7 +3,7 @@
 
 <div align="center">
   <h1>👋 Hi, I'm <span style="color:#0ea5e9">Sumeru Chougule</span></h1>
-  <h3>C++ • Cloud • DevOps • ADAS Engineer • Pune, India</h3>
+  <h3>C++ • Cloud • DevOps Engineer • Pune, India</h3>
 
   <p>
     <a href="mailto:chougulesumeru19@gmail.com">
@@ -49,10 +49,16 @@ I am an **Electronics & Telecommunication** engineer turned **C++ & Cloud/DevOps
 - **Fusion Softwares — Cloud & DevOps Intern** (Aug 2025 – Present)  
   - Built secure AWS environments, automated VPC traffic analysis, integrated Aurora for prototype apps.  
   - Automated routine system tasks using Linux and bash; improved deployment reliability.
+  - Designed and deployed a full-stack application with secure database connectivity to AWS Aurora, configuring VPC and
+security group rules for network isolation.
 
 - **KPIT Technologies — Associate Engineer (C++ & MBD)** (Dec 2023 – Jun 2025)  
   - Contributed to ADAS projects: LiDAR simulation, object detection & collision prediction in C++.  
   - Used MATLAB/Simulink for model-based design and verification (MIL/SIL).
+  - Developed a strong understanding of object-oriented programming concepts and Linux terminal commands.
+  - Played a vital role as an automotive C++ software developer, especially in the ADAS domain, developing and improving
+object-oriented software components (OOP) and implementing new features.
+
 
 _For full details, see the resume (download link above)._
 
@@ -74,14 +80,34 @@ _For full details, see the resume (download link above)._
 
 ## 📈 GitHub Stats & Trophies
 
-<p align="left">
-  <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=chougulesumeru&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chougulesumeru&layout=compact&theme=tokyonight&hide_border=true" />
+## 📈 GitHub Statistics & Activity
+
+<p align="center">
+  <!-- Overall GitHub Stats -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=chougulesumeru&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
+  
+  <!-- GitHub Streak Stats -->
+  <img width="49%" src="https://streak-stats.demolab.com/?user=chougulesumeru&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="left">
-  <img alt="trophies" src="https://github-profile-trophy.vercel.app/?username=chougulesumeru&theme=onedark&row=1&column=6" />
+<p align="center">
+  <!-- Top Languages -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chougulesumeru&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+  <!-- Activity Graph -->
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=chougulesumeru&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true"/>
 </p>
+
+<p align="center">
+  <!-- 3D Contribution Chart -->
+  <img src="https://github.com/chougulesumeru/chougulesumeru/blob/main/profile-3d-contrib/profile-night-green.svg" />
+</p>
+
+<p align="center">
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=chougulesumeru&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
 
 ---
 
@@ -101,8 +127,10 @@ _For full details, see the resume (download link above)._
 ---
 
 ## 👇 Quick links
-- 🔗 Portfolio (GitHub Pages): `https://chougulesumeru.github.io` *(create this repo to host your site)*  
+- 🔗 Portfolio (GitHub Pages): `https://chougulesumeru.github.io` *(create this repo to host your site)*
+- LinkedIn: https://www.linkedin.com/in/sumeru-chougule-414345206/
 - 📄 Resume: `./resume/Sumeru_Chougule_Resume.pdf` *(upload this file into your profile repo)*
+
 
 ---
 
