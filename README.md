@@ -46,7 +46,7 @@ I am an **Electronics & Telecommunication** engineer turned **C++ & Cloud/DevOps
 
 ## 🔎 Experience (high level)
 
-- **Fusion Softwares — Cloud & DevOps Intern** (Aug 2025 – Present)  
+- **Greateway Software Pvt. Ltd. — Cloud & DevOps Engineer** (Aug 2025 – Present)  
   - Built secure AWS environments, automated VPC traffic analysis, integrated Aurora for prototype apps.  
   - Automated routine system tasks using Linux and bash; improved deployment reliability.
   - Designed and deployed a full-stack application with secure database connectivity to AWS Aurora, configuring VPC and
