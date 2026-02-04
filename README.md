@@ -24,7 +24,12 @@
 ---
 
 ## 🔭 About Me
-I am an **Electronics & Telecommunication** engineer turned **C++ & Cloud/DevOps** professional. I build high-performance C++ modules for ADAS and design secure, scalable cloud infrastructures on AWS. I enjoy solving low-level performance problems and building reliable deployment pipelines.
+**Cloud engineer** and **C++ developer** with 2 years of experience designing high-performance cloud-native applications and
+streamlining deployments through modern DevOps methodologies. Proficient in designing secure, scalable, and cost-optimized
+cloud solutions using AWS and implementing **CI/CD pipelines** with **Jenkins** and **Docker**. Proven experience in Model-Based
+Development (MBD) for automotive ADAS systems, leveraging MATLAB/Simulink and object-oriented programming in
+C++. Strong background in **Linux administration, Git/GitHub**, and **Agile methodologies**, with a track record of delivering
+high-quality software in collaborative, fast-paced environments.
 
 **Core strengths:** C++ (OOP), AWS (VPC/EC2/S3/IAM), Linux, CI/CD (Jenkins / GitHub Actions), Docker, MATLAB/Simulink (MBD), LiDAR perception.
 
@@ -37,9 +42,8 @@ I am an **Electronics & Telecommunication** engineer turned **C++ & Cloud/DevOps
 </p>
 
 **Cloud & Infra:** AWS (VPC, EC2, S3, IAM, Aurora), VPC Flow Logs  
-**Languages:** C++ (OOP), Bash  
-**DevOps:** Docker, Jenkins, GitHub Actions, CI/CD  
-**MBD / Tools:** MATLAB / Simulink, MIL / SIL  
+**Languages:** C++ (OOP), Bash/shell scripting
+**DevOps:** Docker, Jenkins, GitHub, CI/CD , Kubernetes,Linux
 **Other:** LiDAR processing, point-cloud pipelines, performance optimization
 
 ---
@@ -47,17 +51,34 @@ I am an **Electronics & Telecommunication** engineer turned **C++ & Cloud/DevOps
 ## 🔎 Experience (high level)
 
 - **Greateway Software Pvt. Ltd. — Cloud & DevOps Engineer** (Aug 2025 – Present)  
-  - Built secure AWS environments, automated VPC traffic analysis, integrated Aurora for prototype apps.  
-  - Automated routine system tasks using Linux and bash; improved deployment reliability.
-  - Designed and deployed a full-stack application with secure database connectivity to AWS Aurora, configuring VPC and
-security group rules for network isolation.
+– Leveraged Linux commands to automate system administration tasks, diagnose complex issues, and streamline
+deployment workflows in production environments.
+– Configured highly available and secure cloud environments, leveraging the AWS ecosystem to build functional
+prototypes while focusing on fundamental concepts like network security and data storage optimization.
+– Worked on forks, which are used in open-source development on GitHub.
+– Created alarms and trigger points in CloudWatch based on thresholds and monitored the server’s performance, CPU
+utilization, and disk usage.
+– Utilized AWS CloudWatch to monitor environment for operational and performance metrics during load testing.
+– Designed and maintained the Git repositories and branching and merging strategies.
+– Automated VPC Traffic Analysis and Threat Detection using AWS VPC Flow Logs.
+– Worked on installation of Docker using Docker Toolbox and creation of custom Docker container images, tagging and
+pushing the images for managing the application life cycle.
+– Configured and monitored the scheduled builds and continuous builds using CI tool.
 
 - **KPIT Technologies — Associate Engineer (C++ & MBD)** (Dec 2023 – Jun 2025)  
-  - Contributed to ADAS projects: LiDAR simulation, object detection & collision prediction in C++.  
-  - Used MATLAB/Simulink for model-based design and verification (MIL/SIL).
-  - Developed a strong understanding of object-oriented programming concepts and Linux terminal commands.
-  - Played a vital role as an automotive C++ software developer, especially in the ADAS domain, developing and improving
+– Completed comprehensive Genesis program training in Model-Based Design (MBD) utilizing MATLAB-Simulink and
+C++.
+– Analysis of the functional specifications and business requirements.
+– Prepared design and development deliverables.
+– Executed the module test cases on the unit testing environment.
+– Developed a strong understanding of object-oriented programming concepts and Linux terminal commands.
+– Played a vital role as an automotive C++ software developer, especially in the ADAS domain, developing and improving
 object-oriented software components (OOP) and implementing new features.
+– Good experience with Jenkins and other build environment tools.
+– Used Git/GitHub for source code control.
+– Supported code builds with continuous integration tool.
+– Contributed actively to an Agile team that produced high-fidelity mockups on time, ensuring effective collaboration and
+timely delivery.
 
 
 ---
