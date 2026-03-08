@@ -5,18 +5,31 @@
   <h1>👋 Hi, I'm <span style="color:#0ea5e9">Sumeru Chougule</span></h1>
   <h3> Cloud • DevOps Engineer • Pune, India</h3>
 
-  <p>
-    <a href="mailto:chougulesumeru19@gmail.com">
-      <img alt="email" src="https://img.shields.io/badge/Email-chougulesumeru19%40gmail.com-red?style=for-the-badge&logo=gmail">
-    </a>
-    <a href="https://www.linkedin.com/in/sumeru-chougule-414345206/">
-      <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin">
-    </a>
-    <a href="https://github.com/chougulesumeru">
-      <img alt="github" src="https://img.shields.io/badge/GitHub-chougulesumeru-181717?style=for-the-badge&logo=github">
-    </a>
-  </p>
-</div> 
+<div align="center">
+
+<p>
+  <a href="mailto:chougulesumeru19@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-chougulesumeru19%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+
+  <a href="https://www.linkedin.com/in/sumeru-chougule-414345206/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sumeru%20Chougule-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="https://github.com/chougulesumeru">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-chougulesumeru-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+
+  <a href="https://chougulesumeru.github.io">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A192F?style=for-the-badge&logo=google-chrome&logoColor=white">
+  </a>
+
+  <a href="https://github.com/chougulesumeru/chougulesumeru/blob/main/Sumeru_Chougule_Cloud_Devops.pdf">
+    <img alt="Resume" src="https://img.shields.io/badge/Resume-Download%20PDF-2E8B57?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white">
+  </a>
+</p>
+
+</div>
 ---
 
 ## 🔭 About Me
@@ -27,7 +40,7 @@ Development (MBD) for automotive ADAS systems, leveraging Matlab-Simulink and ob
 Strong background in Linux administration, Git/GitHub, and Agile methodologies, with a track record of delivering
 high-quality software in collaborative, fast-paced environments
 
-**Core strengths:** C++ (OOP), AWS (VPC/EC2/S3/IAM), Linux, CI/CD (Jenkins), Docker, Kubernetes, Terraform, Ansible
+**Core strengths:** AWS (VPC/EC2/S3/IAM), Linux, CI/CD (Jenkins), Docker, Kubernetes, Terraform, Ansible, C++
 
 ---
 
@@ -38,12 +51,18 @@ high-quality software in collaborative, fast-paced environments
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,aws,docker,kubernetes,jenkins,git,github,linux,terraform,ansible,bash,prometheus,grafana&perline=7" />
 </p>
-**Cloud & DevOps:** Cloud Computing, DevOps, AWS
-**Programming Languages:** Bash/Shell Scripting, C++, OOP in C++
-**DevOps Tools:** Docker, Kubernetes, CI/CD, Jenkins, Terraform, Ansible, Prometheus and Grafana
-**Tools / Version Control:** Git, GitHub, CMake, JIRA
-**Operating Systems:** Ubuntu Linux, Windows
 
+**Cloud & DevOps:** AWS, Cloud Computing, DevOps  
+
+**Programming Languages:** Bash/Shell Scripting, C++, Object-Oriented Programming (OOP)  
+
+**DevOps & Automation Tools:** Docker, Kubernetes, Jenkins, Terraform, Ansible, CI/CD Pipelines  
+
+**Monitoring & Logging:** Prometheus, Grafana  
+
+**Version Control & Tools:** Git, GitHub, CMake, JIRA  
+
+**Operating Systems:** Ubuntu Linux, Windows
 ---
 
 ## 🔎 Experience (high level)
@@ -82,16 +101,17 @@ and timely delivery.
 
 ---
 
-## 🔭 Featured Projects
+## 🚀 Featured DevOps Projects
 
-| Project (Repo) | What it does | Quick links |
-|---|---|---:|
-| **LiDAR Perception** — `lidar-perception` | Real-time point-cloud processing and object detection for ADAS (C++). | 🔗 [Repo](https://github.com/chougulesumeru/lidar-perception) |
-| **AWS VPC Deployment** — `vpc-deployment` | Infrastructure templates for VPC with public/private subnets and IGW. | 🔗 [Repo](https://github.com/chougulesumeru/vpc-deployment) |
-| **Cruise Control (Sim)** — `cruise-control-sim` | MATLAB/Simulink model for vehicle cruise control (feedback control). | 🔗 [Repo](https://github.com/chougulesumeru/cruise-control-sim) |
+### 🔹 Enterprise CI/CD Pipeline
+**Tech Stack:** Jenkins • Docker • Kubernetes • Terraform • AWS • Prometheus • Grafana  
 
----
+- Designed an end-to-end automated CI/CD pipeline for enterprise applications  
+- Automated build, testing, and deployment workflows using Jenkins  
+- Containerized applications with Docker and deployed them to Kubernetes clusters  
+- Integrated monitoring using Prometheus and Grafana  
 
+🔗 Repository: https://github.com/chougulesumeru
 ## 📈 GitHub Stats & Trophies
 
 ## 📈 GitHub Statistics & Activity
@@ -140,9 +160,7 @@ and timely delivery.
 ---
 
 ## 👇 Quick links
-- 🔗 Portfolio (GitHub Pages): `https://chougulesumeru.github.io
-- 📄 Resume: "file:///home/sumeru-chougule/Downloads/Sumeru_Chougule_Cloud_Devops.pdf
-"
-
+- 🔗 **Portfolio:** [My Portfolio](https://chougulesumeru.github.io)
+- 📄 **Resume:** [View Resume](https://github.com/chougulesumeru/chougulesumeru/blob/main/Sumeru_Chougule_Cloud_Devops.pdf)
 
 
