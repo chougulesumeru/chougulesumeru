@@ -17,7 +17,7 @@
     </a>
     <a href=https://github.com/chougulesumeru/chougulesumeru/blob/main/%20Sumerc_Resume.pdf
  download>
-      <img alt="resume" src="https://img.shields.io/badge/Resume-Download-0078D4?style=for-the-badge&logo=adobeacrobat">
+      <img alt="resume" src="file:///home/sumeru-chougule/Downloads/Sumeru_Chougule_Cloud_Devops.pdf">
     </a>
   </p>
 </div> 
