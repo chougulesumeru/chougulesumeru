@@ -33,10 +33,11 @@ high-quality software in collaborative, fast-paced environments
 
 ## 🧰 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,aws,docker,jenkins,git,github,kubernetes,linux,terraform, ansible" alt="tech icons"/>
-</p>
+<h3 align="center">Tech Stack</h3>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,aws,docker,kubernetes,jenkins,git,github,linux,terraform,ansible,bash,prometheus,grafana&perline=7" />
+</p>
 **Cloud & DevOps:** Cloud Computing, DevOps, AWS
 **Programming Languages:** Bash/Shell Scripting, C++, OOP in C++
 **DevOps Tools:** Docker, Kubernetes, CI/CD, Jenkins, Terraform, Ansible, Prometheus and Grafana
