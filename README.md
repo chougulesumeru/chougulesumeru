@@ -13,7 +13,6 @@
 [![Resume](https://img.shields.io/badge/Resume-Download%20PDF-2E8B57?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/chougulesumeru/chougulesumeru/blob/main/Sumeru_Chougule_Cloud_Devops.pdf)
 
 </div>
----
 
 <h2 align= "center"> 👨‍💻 About Me </h2>
 
