@@ -1,38 +1,18 @@
 <!-- PROFILE README for GitHub -->
 <!-- Paste this into: github.com/chougulesumeru/chougulesumeru/README.md -->
 
-<div align="center">
-  <h1>👋 Hi, I'm <span style="color:#0ea5e9">Sumeru Chougule</span></h1>
-  <h3> Cloud • DevOps Engineer • Pune, India</h3>
+# 👋 Hi, I'm Sumeru Chougule
+### Cloud • DevOps Engineer • Pune, India
 
-<div align="center">
+[![Email](https://img.shields.io/badge/Email-chougulesumeru19%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chougulesumeru19@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sumeru%20Chougule-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumeru-chougule-414345206/)
+[![GitHub](https://img.shields.io/badge/GitHub-chougulesumeru-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chougulesumeru)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0A192F?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chougulesumeru.github.io)
+[![Resume](https://img.shields.io/badge/Resume-Download%20PDF-2E8B57?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/chougulesumeru/chougulesumeru/blob/main/Sumeru_Chougule_Cloud_Devops.pdf)
 
-<p>
-  <a href="mailto:chougulesumeru19@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-chougulesumeru19%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-
-  <a href="https://www.linkedin.com/in/sumeru-chougule-414345206/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sumeru%20Chougule-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-
-  <a href="https://github.com/chougulesumeru">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-chougulesumeru-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-
-  <a href="https://chougulesumeru.github.io">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A192F?style=for-the-badge&logo=google-chrome&logoColor=white">
-  </a>
-
-  <a href="https://github.com/chougulesumeru/chougulesumeru/blob/main/Sumeru_Chougule_Cloud_Devops.pdf">
-    <img alt="Resume" src="https://img.shields.io/badge/Resume-Download%20PDF-2E8B57?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white">
-  </a>
-</p>
-
-</div>
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 DevOps Engineer with **2+ years of experience** in building scalable cloud infrastructure and automating software delivery pipelines.
 
@@ -41,18 +21,14 @@ DevOps Engineer with **2+ years of experience** in building scalable cloud infra
 - 🐳 Proficient with **Docker and Kubernetes for container orchestration**
 - 🔧 Strong background in **Linux administration and Infrastructure as Code**
 
-**Core Skills:**  
+**Core Skills**  
 AWS (VPC, EC2, S3, IAM) • Linux • Jenkins • Docker • Kubernetes • Terraform • Ansible • C++
 
 ---
 
-## 🧰 Tech Stack
+# 🧰 Tech Stack
 
-<h3 align="center">Tech Stack</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,aws,docker,kubernetes,jenkins,git,github,linux,terraform,ansible,bash,prometheus,grafana&perline=7" />
-</p>
+![Tech Stack](https://skillicons.dev/icons?i=cpp,aws,docker,kubernetes,jenkins,git,github,linux,terraform,ansible,bash,prometheus,grafana&perline=7)
 
 **Cloud & DevOps:** AWS, Cloud Computing, DevOps  
 
@@ -64,48 +40,38 @@ AWS (VPC, EC2, S3, IAM) • Linux • Jenkins • Docker • Kubernetes • Terr
 
 **Version Control & Tools:** Git, GitHub, CMake, JIRA  
 
-**Operating Systems:** Ubuntu Linux, Windows
----
-
-## 🔎 Experience (high level)
-
-- **Greateway Software Pvt. Ltd. — Cloud & DevOps Engineer** (Aug 2025 – Present)  
-• Leveraged Linux commands to automate system administration tasks, diagnose complex issues, and streamline
-deployment workflows in production environments.
-• Design and automate end-to-end CI/CD pipelines using Jenkins. Optimize build and release cycles by integrating
-automated testing and security scanning, reducing deployment lead times, and reducing manual intervention.
-• Designed and maintained the Git repositories and branching and merging strategies.
-• Containerize legacy and cloud-native applications using Docker, creating optimized, multi-stage build images for
-efficient resource utilization. Manage Kubernetes workloads, including Pods, Deployments, and Services, ensuring
-seamless scaling and resource management across environments.
-• Develop and maintain modular Terraform scripts to automate infrastructure provisioning, ensuring environment
-consistency. Implement state management and version-controlled IaC practices to eliminate configuration drift and
-support rapid disaster recovery.
-• Architect monitoring solutions using AWS-native tools or third-party stacks (e.g.,Prometheus/Grafana) to track
-system reliability and latency.
-• Partner with engineering teams to bridge the gap between development and operations, fostering a culture of
-continuous improvement and shared responsibility.
-
-- **KPIT Technologies — Associate Engineer (C++ & MBD)** (Dec 2023 – Jun 2025)  
-• Completed comprehensive Genesis program training in Amazon Web Services, MBD utilizing Matlab-Simulink and
-C++.
-• Analysis of the functional specifications and business requirements. Prepared design and development deliverables.
-• Containerized ADAS LiDAR simulation environment enabling reproducible builds and cross-platform deployment.
-• Executed the module test cases on the unit testing environment.
-• Good experience with Jenkins and other build environment tools.
-• Developed a strong understanding of OOP’s concepts and Linux terminal commands.
-• Played a vital role as an automotive software developer, especially in the ADAS domain, developing and improving
-object-oriented software components (OOP) and implementing new features.
-• Used Git/GitHub for source code control.
-• Supported code builds with continuous integration tool.
-• Contributed actively to an Agile team that produced high-fidelity mockups on time, ensuring effective collaboration
-and timely delivery.
+**Operating Systems:** Ubuntu Linux, Windows  
 
 ---
 
-## 🚀 Featured DevOps Projects
+# 🔎 Experience (High Level)
 
-### 🔹 Enterprise CI/CD Pipeline
+### Greateway Software Pvt. Ltd. — Cloud & DevOps Engineer  
+**Aug 2025 – Present**
+
+- Leveraged Linux commands to automate system administration tasks and streamline deployment workflows.
+- Designed and automated **end-to-end CI/CD pipelines using Jenkins**.
+- Managed Git repositories, branching, and merging strategies.
+- Containerized applications using **Docker** and managed workloads in **Kubernetes**.
+- Developed modular **Terraform** scripts to automate infrastructure provisioning.
+- Implemented monitoring solutions using **Prometheus and Grafana**.
+- Collaborated with development teams to improve DevOps workflows.
+
+### KPIT Technologies — Associate Engineer (C++ & MBD)  
+**Dec 2023 – Jun 2025**
+
+- Completed AWS and **Model-Based Development (MBD)** training.
+- Worked on **ADAS LiDAR simulation environment**.
+- Developed object-oriented software components using **C++**.
+- Containerized simulation environments for reproducible builds.
+- Used **Git/GitHub** for version control and CI build automation.
+
+---
+
+# 🚀 Featured DevOps Projects
+
+### Enterprise CI/CD Pipeline
+
 **Tech Stack:** Jenkins • Docker • Kubernetes • Terraform • AWS • Prometheus • Grafana  
 
 - Designed an end-to-end automated CI/CD pipeline for enterprise applications  
@@ -113,56 +79,45 @@ and timely delivery.
 - Containerized applications with Docker and deployed them to Kubernetes clusters  
 - Integrated monitoring using Prometheus and Grafana  
 
-🔗 Repository: https://github.com/chougulesumeru
-## 📈 GitHub Stats & Trophies
-
-## 📈 GitHub Statistics & Activity
-
-<p align="center">
-  <!-- Overall GitHub Stats -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=chougulesumeru&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
-  
-  <!-- GitHub Streak Stats -->
-  <img width="49%" src="https://streak-stats.demolab.com/?user=chougulesumeru&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <!-- Top Languages -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chougulesumeru&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-  <!-- Activity Graph -->
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=chougulesumeru&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true"/>
-</p>
-
-<p align="center">
-  <!-- 3D Contribution Chart -->
-  <img src="https://github.com/chougulesumeru/chougulesumeru/blob/main/profile-3d-contrib/profile-night-green.svg" />
-</p>
-
-<p align="center">
-  <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=chougulesumeru&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
+Repository:  
+https://github.com/chougulesumeru
 
 ---
 
-## ✨ Highlights (quick bullets — great for recruiters)
-- ✅ Enterprise CI/CD Pipeline for High-Availability Applications.
-- ✅ Familiar with CI/CD pipeline creation and automation using Jenkins & GitHub Actions. 
-- ✅ Comfortable in Linux-based production environments and performance debugging.
+# 📈 GitHub Statistics & Activity
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=chougulesumeru&show_icons=true&theme=tokyonight" />
+
+<img src="https://streak-stats.demolab.com/?user=chougulesumeru&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chougulesumeru&layout=compact&theme=tokyonight" />
+
+</p>
 
 ---
 
-## 📫 Contact & Availability
-- **Email:** chougulesumeru19@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/sumeru-chougule-414345206/  
-- Open to **contract or full-time** roles in Software, Cloud and DevOps.
+# ✨ Highlights
+
+- ✅ Enterprise CI/CD Pipeline for High-Availability Applications  
+- ✅ CI/CD automation using Jenkins and GitHub Actions  
+- ✅ Experience with Linux-based production environments  
 
 ---
 
-## 👇 Quick links
-- 🔗 **Portfolio:** [My Portfolio](https://chougulesumeru.github.io)
-- 📄 **Resume:** [View Resume](https://github.com/chougulesumeru/chougulesumeru/blob/main/Sumeru_Chougule_Cloud_Devops.pdf)
+# 📫 Contact & Availability
 
+**Email:** chougulesumeru19@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/sumeru-chougule-414345206/  
 
+Open to **Cloud, DevOps, and Platform Engineering roles**
+
+---
+
+# 🔗 Quick Links
+
+**Portfolio:**  
+https://chougulesumeru.github.io
+
+**Resume:**  
+https://github.com/chougulesumeru/chougulesumeru/blob/main/Sumeru_Chougule_Cloud_Devops.pdf
