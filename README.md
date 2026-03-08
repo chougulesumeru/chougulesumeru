@@ -15,7 +15,7 @@
 </div>
 ---
 
-# 👨‍💻 About Me
+<h2 align= "center"> 👨‍💻 About Me </h2>
 
 DevOps Engineer with **2+ years of experience** in building scalable cloud infrastructure and automating software delivery pipelines.
 
