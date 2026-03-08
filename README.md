@@ -1,6 +1,8 @@
 <!-- PROFILE README for GitHub -->
 <!-- Paste this into: github.com/chougulesumeru/chougulesumeru/README.md -->
 
+<div align="center">
+
 # 👋 Hi, I'm Sumeru Chougule
 ### Cloud • DevOps Engineer • Pune, India
 
@@ -10,6 +12,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0A192F?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chougulesumeru.github.io)
 [![Resume](https://img.shields.io/badge/Resume-Download%20PDF-2E8B57?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/chougulesumeru/chougulesumeru/blob/main/Sumeru_Chougule_Cloud_Devops.pdf)
 
+</div>
 ---
 
 # 👨‍💻 About Me
@@ -26,9 +29,11 @@ AWS (VPC, EC2, S3, IAM) • Linux • Jenkins • Docker • Kubernetes • Terr
 
 ---
 
-# 🧰 Tech Stack
+<h2 align="center">🧰 Tech Stack</h2>
 
-![Tech Stack](https://skillicons.dev/icons?i=cpp,aws,docker,kubernetes,jenkins,git,github,linux,terraform,ansible,bash,prometheus,grafana&perline=7)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,aws,docker,kubernetes,jenkins,git,github,linux,terraform,ansible,bash,prometheus,grafana&perline=7" />
+</p> 
 
 **Cloud & DevOps:** AWS, Cloud Computing, DevOps  
 
