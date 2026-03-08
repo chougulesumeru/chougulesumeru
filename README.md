@@ -32,15 +32,17 @@
 </div>
 ---
 
-## 🔭 About Me
-**Devops engineer** with 2 years of experience designing high-performance cloud-native applications and streamlining
-deployments through modern DevOps methodologies. Proficient in designing secure, scalable, and cost-optimized cloud
-solutions using AWS and implementing CI/CD pipelines with Jenkins and Docker. Proven experience in Model-Based
-Development (MBD) for automotive ADAS systems, leveraging Matlab-Simulink and object-oriented programming in C++.
-Strong background in Linux administration, Git/GitHub, and Agile methodologies, with a track record of delivering
-high-quality software in collaborative, fast-paced environments
+## 👨‍💻 About Me
 
-**Core strengths:** AWS (VPC/EC2/S3/IAM), Linux, CI/CD (Jenkins), Docker, Kubernetes, Terraform, Ansible, C++
+DevOps Engineer with **2+ years of experience** in building scalable cloud infrastructure and automating software delivery pipelines.
+
+- 🚀 Experienced in **CI/CD pipeline design and automation**
+- ☁️ Skilled in **AWS cloud infrastructure and DevOps practices**
+- 🐳 Proficient with **Docker and Kubernetes for container orchestration**
+- 🔧 Strong background in **Linux administration and Infrastructure as Code**
+
+**Core Skills:**  
+AWS (VPC, EC2, S3, IAM) • Linux • Jenkins • Docker • Kubernetes • Terraform • Ansible • C++
 
 ---
 
