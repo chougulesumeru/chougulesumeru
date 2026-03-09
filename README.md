@@ -48,9 +48,9 @@ AWS (VPC, EC2, S3, IAM) • Linux • Jenkins • Docker • Kubernetes • Terr
 
 ---
 
-# 🔎 Experience (High Level)
+# 🔎 Experience 
 
-### Greateway Software Pvt. Ltd. — Cloud & DevOps Engineer  
+### Greateway Software Pvt. Ltd. — Associate Engineer  
 **Aug 2025 – Present**
 
 - Leveraged Linux commands to automate system administration tasks and streamline deployment workflows.
@@ -61,7 +61,7 @@ AWS (VPC, EC2, S3, IAM) • Linux • Jenkins • Docker • Kubernetes • Terr
 - Implemented monitoring solutions using **Prometheus and Grafana**.
 - Collaborated with development teams to improve DevOps workflows.
 
-### KPIT Technologies — Associate Engineer (C++ & MBD)  
+### KPIT Technologies — Associate Trainee Engineer 
 **Dec 2023 – Jun 2025**
 
 - Completed AWS and **Model-Based Development (MBD)** training.
