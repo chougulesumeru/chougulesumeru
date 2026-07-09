@@ -1,6 +1,10 @@
 <div align="center">
 
-# 👋 Hi, I'm Sumeru Chougule
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2A43,50:1F6FEB,100:00C6FF&height=220&section=header&text=Sumeru%20Chougule&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Cloud%20%26%20Automation%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+
+</div>
+
+<div align="center">
 
 ### 🚀 DevOps Engineer | Cloud &amp; Automation Enthusiast | ~3 Years in IT
 
@@ -167,3 +171,5 @@ flowchart LR
 ⭐ *"Automate everything that repeats. Monitor everything that matters."*
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:1F6FEB,100:0F2A43&height=120&section=footer" width="100%"/>
