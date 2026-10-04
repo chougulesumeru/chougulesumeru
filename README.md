@@ -1,173 +1,268 @@
+<!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:8E2DE2,50:FF0080,100:FF8C00&height=230&section=header&text=Sumeru%20Chougule&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=DevOps%20Engineer%20%7C%20Cloud%20%26%20Automation%20Enthusiast%20%7C%20~3%20Yrs%20in%20IT&descAlignY=58&descSize=17&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Sumeru%20Chougule&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Cloud%20%7C%20Kubernetes%20%7C%20GitOps&descAlignY=60&descSize=20" width="100%" alt="header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=FF0080&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+Automating+Infrastructure+at+Scale;%E2%98%B8%EF%B8%8F+Kubernetes+%7C+Docker+%7C+Terraform;%F0%9F%94%81+CI%2FCD+%7C+DevSecOps+%7C+GitOps;%F0%9F%A4%96+AI-Augmented+DevOps+Pipelines" alt="Typing SVG" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+Building+secure%2C+scalable+cloud-native+systems;%E2%98%B8%EF%B8%8F+Kubernetes+%7C+Docker+%7C+Terraform+%7C+ArgoCD;%E2%9A%99%EF%B8%8F+CI%2FCD+%7C+DevSecOps+%7C+Observability;%F0%9F%93%89+Reduced+deployment+lead+time+by+40%25" alt="Typing SVG" />
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF0080?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sumeru)
-[![GitHub](https://img.shields.io/badge/GitHub-8E2DE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumeru)
-[![Gmail](https://img.shields.io/badge/Email-FF8C00?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chougulesumeru19@gmail.com)
-[![Location](https://img.shields.io/badge/Pune,%20India-8E2DE2?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=sumeru&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+![Location](https://img.shields.io/badge/📍_Pune,_India-2c5364?style=for-the-badge)
+![Experience](https://img.shields.io/badge/💼_Experience-3_Years-success?style=for-the-badge)
+![Open To Work](https://img.shields.io/badge/🟢_Open_to_Opportunities-brightgreen?style=for-the-badge)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sumeru)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumeru)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chougulesumeru19@gmail.com)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,50:FF0080,100:FF8C00&height=3&section=header" width="100%"/>
+---
 
-## ⚡ About Me
+## 👋 About Me
 
 ```yaml
-whoami: Sumeru Chougule
-role: 🛠️ DevOps Engineer
-experience: "~3 years in IT — DevOps, Cloud Engineering & Automation"
-current_role: Associate Engineer @ KPIT Technologies, Pune
-superpowers:
-  - 🔁 Building bulletproof CI/CD pipelines
-  - ☸️ Zero-downtime Kubernetes deployments
-  - 🏗️ Infrastructure as Code (Terraform + Ansible)
-  - 🛡️ DevSecOps — shift-left security scanning
-  - 🤖 AI-powered deployment risk scoring
-philosophy: "If it's manual, automate it. If it's fragile, monitor it."
+name: Sumeru Chougule
+role: DevOps Engineer
+location: Pune, India 🇮🇳
+experience: 3 years
+cloud: AWS ☁️
+focus: [CI/CD, Kubernetes, GitOps, IaC, DevSecOps, Observability]
+languages: [English, Hindi, Marathi, Kannada]
 ```
 
-🧠 I'm a **DevOps Engineer** with close to **3 years of IT experience**, obsessed with turning fragile,
-manual release processes into **self-healing, observable, one-click pipelines**. I sit at the intersection
-of **Dev and Ops**, shipping infrastructure and applications that scale without drama. ⚡
+- 🔭 DevOps Engineer building **secure, scalable, cloud-native solutions on AWS**
+- ⚙️ Skilled in **CI/CD pipelines (Jenkins, GitHub)**, **Docker & Kubernetes (EKS)**, **Terraform with remote state**, and **GitOps with ArgoCD**
+- 🛡️ Hands-on with **DevSecOps** (SonarQube, Trivy) and **monitoring** (Prometheus, Grafana, CloudWatch)
+- 📉 **Reduced deployment lead time by 40%** and improved developer workflow efficiency
+- 🤖 Exploring **AI-assisted pull request security reviews** inside CI/CD pipelines
 
-- 🔭 Currently engineering an **Agentic AI CI/CD decision engine** — DEPLOY/BLOCK with confidence scoring
-- 🌱 Leveling up in **GitOps, Platform Engineering &amp; Service Mesh**
-- ⚡ Cut deployment lead time by **40%** through pipeline automation
-- 🎯 Believer in **shared ownership** — no silos between Dev and Ops
-- 💬 Talk to me about: `CI/CD` `Kubernetes` `Terraform` `AWS` `DevSecOps` `GitOps`
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,50:FF0080,100:FF8C00&height=3&section=header" width="100%"/>
+## 🛠️ Tech Stack
 
-## 🧰 Tech Arsenal
+### 🔄 CI/CD & GitOps
+<p>
+  <img src="https://skillicons.dev/icons?i=jenkins,github,githubactions,git&perline=8" alt="cicd"/>
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD"/>
+</p>
 
-<div align="center">
-
-### ☁️ Cloud
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
-<img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
-<img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
-<img src="https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white" />
-<img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazoniam&logoColor=white" />
-<img src="https://img.shields.io/badge/VPC-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-
-### 🐳 Containers &amp; Orchestration
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
-<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
-
-### 🔁 CI/CD &amp; DevSecOps
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
-<img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white" />
-<img src="https://img.shields.io/badge/DockerHub-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+### 🐳 Containers & Orchestration
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes&perline=8" alt="containers"/>
+  <img src="https://img.shields.io/badge/AWS_EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white" alt="EKS"/>
+  <img src="https://img.shields.io/badge/AWS_ECS_Fargate-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white" alt="ECS"/>
+  <img src="https://img.shields.io/badge/DockerHub-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="DockerHub"/>
+</p>
 
 ### 🏗️ Infrastructure as Code
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+<p>
+  <img src="https://skillicons.dev/icons?i=terraform&perline=8" alt="iac"/>
+  <img src="https://img.shields.io/badge/Remote_State-S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="S3"/>
+  <img src="https://img.shields.io/badge/State_Locking-DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" alt="DynamoDB"/>
+</p>
 
-### 📊 Monitoring &amp; Observability
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-<img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white" />
+### ☁️ Cloud (AWS)
+<p>
+  <img src="https://skillicons.dev/icons?i=aws&perline=8" alt="aws"/>
+  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" alt="EC2"/>
+  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="S3"/>
+  <img src="https://img.shields.io/badge/VPC-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white" alt="VPC"/>
+  <img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazoniam&logoColor=white" alt="IAM"/>
+  <img src="https://img.shields.io/badge/ELB-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white" alt="ELB"/>
+  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white" alt="CloudWatch"/>
+  <img src="https://img.shields.io/badge/CloudTrail-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="CloudTrail"/>
+  <img src="https://img.shields.io/badge/Glue-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Glue"/>
+  <img src="https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white" alt="Redshift"/>
+</p>
 
-### 💻 Scripting &amp; Version Control
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+### 🛡️ DevSecOps
+<p>
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube"/>
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white" alt="Trivy"/>
+  <img src="https://img.shields.io/badge/IAM-Least_Privilege-DD344C?style=for-the-badge&logo=amazoniam&logoColor=white" alt="Least privilege"/>
+  <img src="https://img.shields.io/badge/AI_PR_Security_Review-6E40C9?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="AI PR review"/>
+</p>
 
-</div>
+### 📊 Monitoring & Observability
+<p>
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana&perline=8" alt="monitoring"/>
+  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white" alt="CloudWatch"/>
+  <img src="https://img.shields.io/badge/CloudTrail-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="CloudTrail"/>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,50:FF0080,100:FF8C00&height=3&section=header" width="100%"/>
+### 💻 Scripting & OS
+<p>
+  <img src="https://skillicons.dev/icons?i=bash,python,linux&perline=8" alt="scripting"/>
+</p>
 
-## 🏛️ CI/CD Pipeline Architecture
+---
 
-The **resilient, self-healing CI/CD pipeline** I built and operate at KPIT Technologies 👇
+## 💼 Professional Experience
+
+<table>
+<tr>
+<td width="100%">
+
+### 🟢 DevOps System Admin — Thinqloud Solutions Pvt. Ltd., Pune
+`Jul 2026 – Present`
+
+- 🔧 Built **pipeline-as-code CI/CD** for microservices with Jenkins, Git, GitHub and Docker, with email notifications for immediate developer feedback after check-in
+- 🚢 Deployed containerized apps on **AWS ECS (Fargate)**: clusters, task definitions, services, VPC networking, security groups, IAM task execution roles, and CPU/memory tuning
+- 🔐 Implemented **Elastic Load Balancers, CloudWatch, CloudTrail** and a dedicated **Security Management VPC** for monitoring, compliance and traffic management
+- 🗓️ Managed and scheduled automated build scripts across **Dev, QA and UAT** environments
+- 🧩 Broke monoliths into microservices with Docker, improving developer workflow, scalability and speed by **40%+**
+- 💾 Administered networks, systems and environments; handled **data backup and disaster recovery**
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="100%">
+
+### 🔵 Associate Engineer — Greateway Softwares Pvt. Ltd., Pune
+`Jun 2025 – Jul 2026`
+
+- 🏗️ Architected an **end-to-end CI/CD pipeline** with Jenkins, SonarQube, Trivy and DockerHub covering build, test, security scanning, artifact management and deployment
+- 🔄 Developed a **zero-downtime Kubernetes rolling deployment** strategy across 2+ environments using readiness and liveness probes
+- ⏪ Engineered an **auto-rollback mechanism** that monitors post-deployment health and triggers `kubectl rollout undo` on anomalies
+- 📦 Authored **modular Terraform** scripts, eliminating configuration drift and enabling rapid disaster recovery
+- 🤝 Collaborated with dev and ops teams to promote continuous improvement and shared ownership
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="100%">
+
+### 🟣 Trainee Engineer — KPIT Technologies, Pune
+`Dec 2023 – Jun 2025`
+
+- 🚗 Designed an **end-to-end ETL pipeline on AWS** for ADAS vehicle sensor telemetry from a connected fleet
+- 🔁 Built **AWS Glue** jobs to move sensor data from **S3 → Redshift**, achieving **99.9% pipeline reliability**
+- 🔑 Managed **IAM roles and policies (least privilege)** securing Glue, S3, Redshift and CloudWatch
+- 📑 Analyzed functional specs and business requirements to produce design and development deliverables
+- 🏃 Delivered features on time across **8+ Agile sprints** in a cross-functional team
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Featured Project
+
+### 🔁 GitOps-Driven CI/CD Deployment Pipeline
+![AWS EKS](https://img.shields.io/badge/AWS_EKS-FF9900?style=flat-square&logo=amazoneks&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+- 🤖 **AI-powered PR reviews** in the CI/CD pipeline scan git diffs for security vulnerabilities, **cutting manual review time by 40%**
+- 🐳 Containerized app on **AWS EKS** using multi-stage Docker builds, rolling updates, **HPA** and liveness/readiness probes
+- ♻️ **GitOps with ArgoCD**: self-healing and drift detection keep cluster state matching Git-defined manifests
+- 🏗️ Infrastructure provisioned with **Terraform** using **remote S3 state and DynamoDB locking**
 
 ```mermaid
 flowchart LR
-    A[👨‍💻 Developer Push] --> B[🔧 Jenkins Pipeline Trigger]
-    B --> C[🔍 SonarQube<br/>Code Quality Scan]
-    C --> D[🛡️ Trivy<br/>Security Vulnerability Scan]
-    D --> E[📦 Docker Build &amp; Push<br/>to DockerHub]
-    E --> F[🤖 Agentic AI Risk Engine<br/>Claude API — DEPLOY/BLOCK]
-    F -->|✅ DEPLOY| G[☸️ Kubernetes Rolling Deploy<br/>Readiness &amp; Liveness Probes]
-    F -->|⛔ BLOCK| H[🚫 Pipeline Halted<br/>Alert Sent to Team]
-    G --> I[📈 Prometheus + Grafana<br/>Health Monitoring]
-    I -->|⚠️ Anomaly Detected| J[↩️ Auto Rollback<br/>kubectl rollout undo]
-    I -->|✅ Healthy| K[🎉 Production Live<br/>Zero Downtime]
-    L[🏗️ Terraform + Ansible<br/>IaC Provisioning] -.->|Provisions| G
-
-    style A fill:#8E2DE2,color:#fff
-    style F fill:#FF0080,color:#fff
-    style G fill:#326CE5,color:#fff
-    style H fill:#FF3B3B,color:#fff
-    style K fill:#00C48C,color:#fff
+    A[👨‍💻 Developer Push] --> B[🔍 AI PR Security Review]
+    B --> C[⚙️ CI Build & Test]
+    C --> D[🐳 Docker Image]
+    D --> E[(📦 Registry)]
+    E --> F[🔁 ArgoCD GitOps Sync]
+    F --> G[☸️ AWS EKS Cluster]
+    G --> H[📊 Prometheus & Grafana]
+    T[🏗️ Terraform] -.provisions.-> G
 ```
 
-**Pipeline highlights:**
-- ⚙️ **Build &amp; Scan** — Jenkins orchestrates build, SonarQube checks code quality, Trivy scans for vulnerabilities
-- 🤖 **AI-Driven Risk Assessment** — Agentic AI system (Claude API) analyzes CI results and issues DEPLOY/BLOCK decisions with confidence scoring
-- ☸️ **Zero-Downtime Rollout** — Kubernetes rolling deployments with readiness/liveness probes across 2+ environments
-- ↩️ **Self-Healing** — Continuous health monitoring auto-triggers rollback on anomaly detection
-- 🏗️ **Drift-Free Infra** — Terraform-provisioned infrastructure with remote state + DynamoDB locking
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,50:FF0080,100:FF8C00&height=3&section=header" width="100%"/>
+## 🔄 Typical CI/CD Flow I Build
 
-## 💼 Experience Timeline
-
-```text
-🏢 KPIT Technologies, Pune
-   │
-   ├── 🚀 Associate Engineer                       (Jul 2025 – Present)
-   │      └── CI/CD automation • K8s deployments • AI-driven deployment risk analysis
-   │
-   └── 🌱 Associate Trainee Engineer                (Dec 2023 – Jun 2025)
-          └── AWS ETL pipelines for ADAS vehicle sensor analytics (99.9% reliability)
+```mermaid
+flowchart LR
+    A[Git Commit] --> B[Jenkins Pipeline]
+    B --> C[SonarQube Code Scan]
+    C --> D[Docker Build]
+    D --> E[Trivy Image Scan]
+    E --> F[Push to DockerHub]
+    F --> G[K8s Rolling Deploy]
+    G --> H{Health Check}
+    H -- ✅ Healthy --> I[Release Complete]
+    H -- ❌ Anomaly --> J[kubectl rollout undo]
 ```
 
-| 📌 Achievement | 📊 Impact |
-|---|---|
-| 🔁 CI/CD pipeline automation (Jenkins + SonarQube + Trivy) | ⬇️ 40% faster deployment lead time |
-| 🤖 AI code review integration (GPT-4 on PRs) | ⬇️ 40% less manual review time |
-| ☁️ AWS Glue ETL pipeline (S3 → Redshift) | ✅ 99.9% pipeline reliability |
-| ☸️ Kubernetes rolling deployments | 🟢 Zero downtime across 2+ environments |
-| 🏃 Agile delivery | 8+ sprints, on-time feature delivery |
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,50:FF0080,100:FF8C00&height=3&section=header" width="100%"/>
+## 📈 Impact at a Glance
+
+| 🎯 Metric | 📊 Result |
+|:--|:--:|
+| ⏱️ Deployment lead time | **↓ 40%** |
+| 🧩 Developer workflow & speed (microservices) | **↑ 40%+** |
+| 🤖 Manual PR review time (AI security scan) | **↓ 40%** |
+| 🔁 ETL pipeline reliability (Glue → Redshift) | **99.9%** |
+| 🏃 Agile sprints delivered on time | **8+** |
+| 🚦 Deployment strategy | **Zero-downtime + Auto-rollback** |
+
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sumeru&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sumeru&theme=radical&hide_border=true" width="48%" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sumeru&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumeru&layout=compact&theme=tokyonight&hide_border=true" alt="top languages"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumeru&layout=compact&theme=radical&hide_border=true" width="48%" />
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sumeru&theme=tokyonight&hide_border=true" alt="streak"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,50:FF0080,100:FF8C00&height=3&section=header" width="100%"/>
+---
 
-## 🌐 Let's Connect
+## 🎓 Education
+
+🏫 **Bachelor of Technology — Electronics & Telecommunication**
+Rajarambapu Institute of Technology · `Aug 2020 – Jun 2024` · **CGPA: 7.8 / 10**
+
+## 🌐 Languages
+
+![English](https://img.shields.io/badge/English-Professional-blue?style=flat-square)
+![Hindi](https://img.shields.io/badge/Hindi-Native-orange?style=flat-square)
+![Marathi](https://img.shields.io/badge/Marathi-Native-red?style=flat-square)
+![Kannada](https://img.shields.io/badge/Kannada-Conversational-yellow?style=flat-square)
+
+## 🧭 Practices
+
+`Agile/Scrum` · `SDLC` · `Disaster Recovery` · `Data Backup` · `Pipeline as Code` · `Least-Privilege IAM`
+
+---
+
+## 📫 Let's Connect
 
 <div align="center">
 
-📍 Pune, Maharashtra, India &nbsp;|&nbsp; 📞 +91 7028244510 &nbsp;|&nbsp; ✉️ chougulesumeru19@gmail.com
+I'm always open to discussing **DevOps, Cloud, Kubernetes, and GitOps** opportunities and ideas. 🤝
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-FF0080?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sumeru)
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-8E2DE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumeru)
+[![LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sumeru)
+[![Email](https://img.shields.io/badge/Send_an-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chougulesumeru19@gmail.com)
 
-🗣️ **English** (Professional) &nbsp;•&nbsp; **Hindi** (Native) &nbsp;•&nbsp; **Marathi** (Native) &nbsp;•&nbsp; **Kannada** (Conversational)
+<br/>
 
-⚡ *"Automate everything that repeats. Monitor everything that matters."* ⚡
+⭐ *If you like my work, drop a star on my repos!* ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:FF8C00,50:FF0080,100:8E2DE2&height=120&section=footer" width="100%"/>
