@@ -1,16 +1,15 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Sumeru%20Chougule&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Cloud%20%7C%20Kubernetes%20%7C%20GitOps&descAlignY=60&descSize=20" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:1B3A5C,100:2F5D8C&height=200&section=header&text=Sumeru%20Chougule&fontSize=54&fontColor=F5F7FA&fontAlign=50&fontAlignY=40&desc=DevOps%20Engineer%20%C2%B7%20AWS%20%C2%B7%20Kubernetes%20%C2%B7%20GitOps&descSize=18&descAlign=50&descAlignY=62&descColor=C9D6E3" width="100%" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+Building+secure%2C+scalable+cloud-native+systems;%E2%98%B8%EF%B8%8F+Kubernetes+%7C+Docker+%7C+Terraform+%7C+ArgoCD;%E2%9A%99%EF%B8%8F+CI%2FCD+%7C+DevSecOps+%7C+Observability;%F0%9F%93%89+Reduced+deployment+lead+time+by+40%25" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5B9BD5&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+Building+secure%2C+scalable+cloud-native+systems;%E2%98%B8%EF%B8%8F+Kubernetes+%7C+Docker+%7C+Terraform+%7C+ArgoCD;%E2%9A%99%EF%B8%8F+CI%2FCD+%7C+DevSecOps+%7C+Observability;%F0%9F%93%89+Reduced+deployment+lead+time+by+40%25" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=sumeru&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-![Location](https://img.shields.io/badge/📍_Pune,_India-2c5364?style=for-the-badge)
+![Location](https://img.shields.io/badge/📍_Pune,_India-1B3A5C?style=for-the-badge)
 ![Experience](https://img.shields.io/badge/💼_Experience-3_Years-success?style=for-the-badge)
 ![Open To Work](https://img.shields.io/badge/🟢_Open_to_Opportunities-brightgreen?style=for-the-badge)
 
@@ -223,6 +222,6 @@ I'm always open to discussing **DevOps, Cloud, Kubernetes, and GitOps** opportun
 
 ⭐ *If you like my work, drop a star on my repos!* ⭐
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F5D8C,50:1B3A5C,100:0F2027&height=100&section=footer" width="100%" alt="footer"/>
 
 </div>
