@@ -46,60 +46,20 @@ languages: [English, Hindi, Marathi, Kannada]
 
 ## 🛠️ Tech Stack
 
-### 🔄 CI/CD & GitOps
-<p>
-  <img src="https://skillicons.dev/icons?i=jenkins,github,githubactions,git&perline=8" alt="cicd"/>
-  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD"/>
-</p>
+<div align="center">
 
-### 🐳 Containers & Orchestration
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes&perline=8" alt="containers"/>
-  <img src="https://img.shields.io/badge/AWS_EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white" alt="EKS"/>
-  <img src="https://img.shields.io/badge/AWS_ECS_Fargate-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white" alt="ECS"/>
-  <img src="https://img.shields.io/badge/DockerHub-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="DockerHub"/>
-</p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,github,githubactions,git,prometheus,grafana,linux,bash,python&perline=13" alt="tech stack"/>
 
-### 🏗️ Infrastructure as Code
-<p>
-  <img src="https://skillicons.dev/icons?i=terraform&perline=8" alt="iac"/>
-  <img src="https://img.shields.io/badge/Remote_State-S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="S3"/>
-  <img src="https://img.shields.io/badge/State_Locking-DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" alt="DynamoDB"/>
-</p>
+<br/><br/>
 
-### ☁️ Cloud (AWS)
-<p>
-  <img src="https://skillicons.dev/icons?i=aws&perline=8" alt="aws"/>
-  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" alt="EC2"/>
-  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="S3"/>
-  <img src="https://img.shields.io/badge/VPC-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white" alt="VPC"/>
-  <img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazoniam&logoColor=white" alt="IAM"/>
-  <img src="https://img.shields.io/badge/ELB-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white" alt="ELB"/>
-  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white" alt="CloudWatch"/>
-  <img src="https://img.shields.io/badge/CloudTrail-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="CloudTrail"/>
-  <img src="https://img.shields.io/badge/Glue-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Glue"/>
-  <img src="https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white" alt="Redshift"/>
-</p>
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aqua&logoColor=white)
+![EKS](https://img.shields.io/badge/EKS-FF9900?style=flat-square&logo=amazoneks&logoColor=white)
+![ECS](https://img.shields.io/badge/ECS_Fargate-FF9900?style=flat-square&logo=amazonecs&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white)
 
-### 🛡️ DevSecOps
-<p>
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube"/>
-  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white" alt="Trivy"/>
-  <img src="https://img.shields.io/badge/IAM-Least_Privilege-DD344C?style=for-the-badge&logo=amazoniam&logoColor=white" alt="Least privilege"/>
-  <img src="https://img.shields.io/badge/AI_PR_Security_Review-6E40C9?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="AI PR review"/>
-</p>
-
-### 📊 Monitoring & Observability
-<p>
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana&perline=8" alt="monitoring"/>
-  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white" alt="CloudWatch"/>
-  <img src="https://img.shields.io/badge/CloudTrail-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="CloudTrail"/>
-</p>
-
-### 💻 Scripting & OS
-<p>
-  <img src="https://skillicons.dev/icons?i=bash,python,linux&perline=8" alt="scripting"/>
-</p>
+</div>
 
 ---
 
